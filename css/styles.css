@@ -21,9 +21,16 @@ h2 {
 .main-nav {
     color: #ffffff;
     font-size: 125%;
-    text-decoration-color: #ff0000;
     text-transform: uppercase;
+}
 
+a:visited{
+    color:gray
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: #ff0000;
 }
 
 a {
