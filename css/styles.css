@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+.introduction {
+    color: #ff0000;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+.main-nav {
+    color: #ffffff;
+    font-size: 125%;
+    text-decoration-color: #ff0000;
+    text-transform: uppercase;
+
+}
+
+a {
+    padding: 0px 10px 0px 0px;
+}
+
+ul {
+    color: #ffffff;
+    text-align: center;
+    font-family: cursive;
+}
+
