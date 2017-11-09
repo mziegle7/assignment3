@@ -12,6 +12,10 @@ h1 {
 
 .introduction {
     color: #ff0000;
+     width: 40%;
+        padding: 6 2%;
+     position: absolute;
+    text-align: center;
 }
 
 h2 {
@@ -43,3 +47,12 @@ ul {
     font-family: cursive;
 }
 
+
+    
+.joshua-tree-photo {
+     height: 250px;
+    width: auto;
+    margin: 0;
+    overflow: hidden;
+    background-color: #000;
+}
